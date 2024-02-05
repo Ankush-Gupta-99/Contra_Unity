@@ -1,0 +1,1215 @@
+fileFormatVersion: 2
+guid: b166c9c1ad7db1746b7d18c9a1f43117
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 231
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539b8cb09d48ba458e55cfcb5e44636
+      internalID: 370848523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 160
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a19c14098ce1469351418554526b5
+      internalID: -47821749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 120
+        width: 254
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ad018323e7214ea310591d8fde9eb
+      internalID: -1233233374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 274
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac37cdac45b1c4f9d7bd83a5311738
+      internalID: 1872113041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 226
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffa85c8259a814fa06d4fc1ab8447a
+      internalID: 1960753266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 224
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a4afa8a299df4194404c1ff00e24b
+      internalID: 1116170175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d90a5f339f744b97467cfe97a1e53
+      internalID: 451703137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db94fbc068226a41ace9838d96420c7
+      internalID: 551420826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b86c293910774e984173344398d9a
+      internalID: 1376671595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477dab6e77c66384191aa5774855b0d9
+      internalID: 378498986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c098d2f11156746bb0a20e0c3a73c5
+      internalID: -1702726326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 168
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8fd9933f97aa64b84d9d106db75e2e
+      internalID: 226650953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 129
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45201c7ca25c4348b6e446cb84e90a3
+      internalID: 1412366557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 117
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e826218203e14aacfcfceeb2af49d
+      internalID: -941026795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 117
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fe32cd2e5b114db2cb52d1d15538b
+      internalID: -1511847245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 151
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1255ef7f965d4ba0223bec874e00b
+      internalID: -571816538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 112
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36469ae057451044a819c111fc377b5e
+      internalID: -1590288113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 117
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3784453be20e249bf9e2d8d024e79d
+      internalID: -1841273240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5221965658f514f9ac0420ab99e4f7
+      internalID: -1522658702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 139
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ea5e1e7951a64baa768758ec4491e
+      internalID: -799188625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd08ceaec0c445947a133db729e02aa9
+      internalID: 1676663926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 79
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1fc9e7eafeda448843c64d5c48ca8f
+      internalID: 1507974134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 79
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92c2c0fcde68043b2e9913206ea893
+      internalID: -1315940697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d42c766118a9e478df7f7f50a9bf1a
+      internalID: -1958032830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ede4adf6e2ead409b7d0fb606767d8
+      internalID: 2052460571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 79
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8549718599b264fbe03f66e03e110a
+      internalID: 782456612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 79
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee803c7d53f0146904fcb91eff7652
+      internalID: 1143334015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 79
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddb04ed74c7c9499bea751099081d0
+      internalID: 2134208038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 79
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329f218a13ab0d4b88285733611b698
+      internalID: -162420159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 77
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6ead68f9205e41a9babad085e1fa7
+      internalID: 333104986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 99
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c926222d0fafb44975ff38bf68d759
+      internalID: 335841930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a0092c7a11934493b5a039cf754b7
+      internalID: -922437091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ff76324ee0c041a29bc3a1ad1cad0
+      internalID: 806998973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4758ee17975ca447afbdd5274c4b638
+      internalID: -856467840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a7d6645b609345bd6e5da8602ab5d
+      internalID: 2068896065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec22c79fa77824e80903a16fa83381
+      internalID: 400682100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 79
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7220e423fa46c4c8ef168f36da00a9
+      internalID: 1729551962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 79
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b7e571b43e9e48b2f41b1a13f0cc8
+      internalID: -173304889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 79
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb24b2a1894e73459457bda9382c9ad
+      internalID: 341355493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 79
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c519cd21129348acd26e77dc64340
+      internalID: 1765336870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1d8c8d5d025c45ad1f6ee2f493ce2
+      internalID: 1525635353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 66
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0965509114dfc40b3bf9da282d2ee2
+      internalID: 314888236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7110b4d7404f884890e1db5d7191d72
+      internalID: -93691267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 52
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159300951290774bbd71254b1f8aaea
+      internalID: -310207033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 52
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69036dd05b7ef47a39d90d362e0344
+      internalID: -1313529817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 760
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64892140155ea9a4f8b40f17edf96332
+      internalID: -113342350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 78
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd95a9ec7977a4d9694ce7cfde9a99
+      internalID: -1130625738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 226
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321783eb1b65964f8b3e155e89b5042
+      internalID: 1195393529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_0: 370848523
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_1: -47821749
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_10: -1702726326
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_11: 226650953
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_12: 1412366557
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_13: -941026795
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_14: -1511847245
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_15: -571816538
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_16: -1590288113
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_17: -1841273240
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_18: -1522658702
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_19: -799188625
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_2: -1233233374
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_20: 1676663926
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_21: 1507974134
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_22: -1315940697
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_23: -1958032830
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_24: 2052460571
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_25: 782456612
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_26: 1143334015
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_27: 2134208038
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_28: -162420159
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_29: 333104986
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_3: 1872113041
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_30: 335841930
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_31: -922437091
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_32: 806998973
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_33: -856467840
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_34: 2068896065
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_35: 400682100
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_36: 1729551962
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_37: -173304889
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_38: 341355493
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_39: 1765336870
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_4: 1960753266
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_40: 1525635353
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_41: 314888236
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_42: -93691267
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_43: -310207033
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_44: -1313529817
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_45: -113342350
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_46: -1130625738
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_47: 1195393529
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_5: 1116170175
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_6: 451703137
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_7: 551420826
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_8: 1376671595
+      stock-vector-animated-giant-worm-game-character-for-action-video-games-783600172-removebg-preview_9: 378498986
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

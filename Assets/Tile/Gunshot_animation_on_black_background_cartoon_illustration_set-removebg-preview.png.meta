@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: 305280d4aa111ba41b8e08dec69fe17a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 501
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d2d22eb606694f917fcc253d06264
+      internalID: 127149775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 481
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4f958edc6c2d469f05b73fb180455
+      internalID: -1797592935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 480
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9cf335e2a9d5745ab92d412f11cf39
+      internalID: -550638155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 477
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593f8a5c5d4c724ca57b470584db744
+      internalID: 2048174404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 387
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3874e772da6848b348d20c2f2c46e
+      internalID: -1184451956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 363
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4376c12a3f067a42a39d1505db45ca9
+      internalID: 380677444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 267
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611899ee773c0740a4718163b470f05
+      internalID: -1956243607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 312
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667e5019223c9846a35e7936e25f3b6
+      internalID: 14774075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 271
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f54e745e4a22a4a8b0945fd04e4676
+      internalID: -2037908510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 270
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a5ffa8c4aa0a4e8931a1041c32620
+      internalID: -1730862501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 274
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d4091680270f40884bb8ef66cb674
+      internalID: 1119087190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ac8dcf003adf48a94ebdb3eb98156
+      internalID: 244427826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccb52ae7106e5458957bc352788648
+      internalID: 1469284492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 164
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad350079b2b7642a740e25dd62b8a2
+      internalID: 1842449151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 164
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec026f398196a4b918d625c5326dae
+      internalID: 618823092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f024ee4494d2b47bb1ccb98b6ef981
+      internalID: -47611254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70e675e3139b94f9c82c5fd916cbf0
+      internalID: -231052966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 356
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c671f296fef248b1ce7baa54357cd
+      internalID: -1055254208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 371
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93961f4bb7af2db4d9c2d71e64458086
+      internalID: 288525977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_0: 127149775
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_1: -1797592935
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_10: -2058181875
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_11: 1088745943
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_12: 1584734367
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_13: -1678272665
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_14: 723293015
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_15: 827210939
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_16: -503089560
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_17: -1956243607
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_18: 14774075
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_19: -653762597
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_2: -550638155
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_20: -2037908510
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_21: -1459877917
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_22: -1730862501
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_23: 1119087190
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_24: 622798642
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_25: 244427826
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_26: 306843732
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_27: 1469284492
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_28: 1842449151
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_29: 1968913467
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_3: 2048174404
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_30: 618823092
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_31: 414742997
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_32: 1535569599
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_33: 1861667811
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_34: -1731605417
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_35: -47611254
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_36: -231052966
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_37: -158697086
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_38: -732205879
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_39: 1334746170
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_4: -1184451956
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_40: 57654401
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_41: 163670206
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_42: 780371678
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_5: 288525977
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_6: 380677444
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_7: -1055254208
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_8: -1622061043
+      Gunshot_animation_on_black_background_cartoon_illustration_set-removebg-preview_9: -775494708
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
