@@ -15,6 +15,7 @@ TagManager:
   - Key
   - Life
   - Gate
+  - Zomby
   layers:
   - Default
   - TransparentFX
